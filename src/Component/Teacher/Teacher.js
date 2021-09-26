@@ -17,7 +17,7 @@ const Teacher = (props) => {
             <h5 className="card-title">Age : {age}</h5>
             <h5 className="card-title">Gender : {gender}</h5>
             <h5 className="card-title"> Subject : {subject}</h5>
-            <h5 className="card-title">Salary : $ {salary}</h5>
+            <h5 className="card-title">Fee : $ {salary}</h5>
           </div>
           <div className="text-center pb-2">
             <button
