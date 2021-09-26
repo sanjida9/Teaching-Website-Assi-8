@@ -1,0 +1,11 @@
+.image {
+  height: 200px;
+  width: 200px;
+}
+.size {
+  width: 277px;
+}
+.card-des {
+  background-color: #f7deeb;
+  /* background-image: linear-gradient(to right, #fbd3e9, #bb377d); */
+}
