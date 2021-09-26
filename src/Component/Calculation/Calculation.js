@@ -20,7 +20,6 @@ const Calculation = (props) => {
       <h5>Total Salary : ${totalSalary}</h5>
 
       {calculation.map((teacher) => (
-        //   <li key={teacher.id}>{teacher.name}</li>
         <div key={teacher.id} className="container text-center color">
           <img
             src={teacher.image}
